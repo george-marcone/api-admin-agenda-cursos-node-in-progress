@@ -1,0 +1,6 @@
+fsutil behavior query DisableDeleteNotify
+fsutil behavior set DisableDeleteNotify 0
+Get-Partition | Select DiskNumber, PartitionNumber, Offset
+
+Av. Visconde de Jequitinhonha, 793. Apto 305, Edf. Praia de Gameleira, Boa Viagem.
+
